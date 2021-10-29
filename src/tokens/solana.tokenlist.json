@@ -20184,3 +20184,16 @@
     "instagram": "https://instagram.com/bricksproperties"
   }
 }
+{
+      "chainId": 101,
+      "address": "CDxwZo3ayxvTmxin7F6o9xg6SjdE4qWEDXV6MZFBevqw",
+      "symbol": "SHIBS",
+      "name": "ShibSol",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/shibasol/token-list/10b0b2d1459d8da506940edcce0a839864db3f8b/assets/mainnet/SHIBS%20LOGO.png",
+      "tags": [],
+      "extensions": {
+        "website": "https://www.solshib.net/",
+        "twitter": "https://twitter.com/ShibSol",
+      }
+    },
